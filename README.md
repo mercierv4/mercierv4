@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mercier Victor
+- 👋 Hi, I’m Mercier Victor.
 - 👀 I’m interested in all of technologies stuff. 
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on Microsoft (one day).
